@@ -1,0 +1,17 @@
+body{
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+}
+.centerlogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+:root{
+    --primary-color: rgb(193, 91, 13);
+    --secondary-color: bisque;
+}
+h2.segmenttitler{
+    color: var(--primary-color);
+}
